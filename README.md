@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aishwaryastat
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning master in Statistics.
+- 👀 I’m interested in Data Science and Data Analysis.
+- 🌱 I have completed my master's in Statistics.
 - 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me email: rautaishwarya24999@gmail.com
 
